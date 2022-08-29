@@ -5,7 +5,7 @@ The full Tableau Story can be seen [here](https://public.tableau.com/shared/9WQ4
 ## Overview
 
 ### Purpose of Analysis
-My partner and I would like to start a bike share project in Des Moines, Iowa inspired by a trip to New York and the bike share program there. In order to convince investors that a bike-sharing program is a solid business proposal, we will provide the potential stakeholders with an analysis of the New York bike sharing trends. The analysis includes:
+My partner and I would like to start a bike share project in Des Moines, Iowa inspired by a trip to New York and the bike share program there. In order to convince investors that a bike-sharing program is a solid business proposal, we will provide the potential stakeholders with an understandable and easy to read analysis via Tableau Story of the New York bike sharing trends. After reformatting the data using Python, the analysis includes:
 
 - the length of time that bikes are checked out for all riders and genders
 - the number of bike trips for all riders and genders for each hour of each day of the week
