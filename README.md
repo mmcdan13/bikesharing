@@ -17,32 +17,32 @@ My partner and I would like to start a bike share project in Des Moines, Iowa in
 ### New York Citi Bike Share Visualizations
 
 
-![](Checkout_time_for_users.png)
+![](Images/Checkout_time_for_users.png)
 
 Most rides are less than 30 minutes with a concentration of rides between 4-8 minutes. The longer the duration of the ride, the less number of rides there are.
 
-![](Checkout_time_per_gender.png)
+![](Images/Checkout_time_per_gender.png)
 
 The trend of the duration of times per gender mimic the overall trend, however, males take more rides than females. 
 
-![](August_peak_hours.png)
+![](Images/August_peak_hours.png)
 
 The peak hours of August 2019 were between the hours of 5:00PM to 7:00PM.
 
-![](Trips_per_weekday_per_hour.png)
+![](Images/Trips_per_weekday_per_hour.png)
 
 There is a large concentration of rides between 6:00AM-9:00AM and 5:00PM-7:00PM during Monday-Friday.
 On the weekends there is a more even spread of use between 10:00AM to 8:00PM.
 
-![](Trips_by_gender.png)
+![](Images/Trips_by_gender.png)
 
 In both the male and female populations overall trend of trips per weekday per hour, as seen above, persists. This breakout is consistent with males taking more rides.
 
-![](Customers.png)
+![](Images/Customers.png)
 
 Most riders are annual subscribers, rather than sporadic or short term customers.
 
-![](User_trips_by_gender_by_weekday.png)
+![](Images/User_trips_by_gender_by_weekday.png)
 
 Short term customers take less rides than annual subscribers. Short term customers have an even spread of use regardless of gender or weekday. Annual subscribers have mostly male riders and the males have the highest concentration of rides on Tuesdays, Thursdays, and Fridays.
 
